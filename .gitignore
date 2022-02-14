@@ -195,5 +195,5 @@ pyvenv.cfg
 pip-selfcheck.json
 
 # ignore the images
-kaggle/
-testing_images/
+# kaggle/
+# testing_images/
